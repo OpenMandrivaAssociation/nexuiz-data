@@ -6,7 +6,7 @@ Version:	2.5.2
 Release:	5
 License:	GPLv2+
 Group:		Games/Other
-URL:		http://www.nexuiz.com/
+URL:		https://www.nexuiz.com/
 # (tpg) original source is here http://downloads.sourceforge.net/nexuiz/nexuiz-24.zip
 # extract only needed files
 # unzip nexuiz-252.zip
